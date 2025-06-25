@@ -11,15 +11,15 @@ Install brew
 
 # Clone the Repo
  ```
- git clone https://github.com/mohanvamc/sre-mac-setup.git
+ git clone https://github.com/mohanvamc/vamc-mac-setup.git
 
  ```
 
 # Run the script
 ```
-cd sre-mac-setup
-chmod +x sre-tools-mac.sh
-./sre-tools-mac.sh
+cd vamc-mac-setup
+chmod +x setup-tools-mac.sh
+./setup-tools-mac.sh
 
 ```
 # Package Links
@@ -40,12 +40,10 @@ chmod +x sre-tools-mac.sh
 - [K9s](https://formulae.brew.sh/formula/k9s)
 
 ## DevOps
-- [Argo CD](https://formulae.brew.sh/formula/argocd)
 - [Helm](https://formulae.brew.sh/formula/helm)
 - [tfenv](https://formulae.brew.sh/formula/tfenv)
 - [tgenv](https://formulae.brew.sh/formula/tgenv)
-- [jenv](https://formulae.brew.sh/formula/jenv)
-- [Go](https://formulae.brew.sh/formula/go)
+
 
 ## Other
 - [iTerm2](https://formulae.brew.sh/cask/iterm2)
@@ -62,6 +60,3 @@ echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zs
 - [Asciinema](https://formulae.brew.sh/formula/asciinema)
 - [Wireshark](https://formulae.brew.sh/cask/wireshark)
 - [The Unarchiver](https://formulae.brew.sh/cask/the-unarchiver)
-- [1Password](https://formulae.brew.sh/cask/1password)
-
-
