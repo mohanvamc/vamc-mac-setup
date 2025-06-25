@@ -17,7 +17,7 @@ Install brew
 
 # Run the script
 ```
-cd vamc-mac-setup
+cd mac-tools-setup
 chmod +x setup-tools-mac.sh
 ./setup-tools-mac.sh
 
