@@ -29,4 +29,3 @@ bash
 --cask warp
 --cask brave-browser
 --cask iterm2
---cask rancher
