@@ -1,0 +1,33 @@
+# Regular packages
+awscli
+kubernetes-cli
+kubectl-ai
+kubectx
+k9s
+helm
+tfenv
+tgenv
+romkatv/powerlevel10k/powerlevel10k
+jq
+wget
+tree
+adobe-acrobat-reader
+bash
+
+# Casks
+--cask visual-studio-code
+--cask github
+--cask notion
+--cask google-cloud-sdk
+--cask asciinema
+--cask wireshark
+--cask the-unarchiver
+--cask 1password
+--cask protonvpn
+--cask proton-pass
+--cask proton-mail
+--cask cursor
+--cask warp
+--cask brave-browser
+--cask iterm2
+--cask rancher
