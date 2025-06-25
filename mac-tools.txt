@@ -13,7 +13,6 @@ wget
 tree
 adobe-acrobat-reader
 bash
-
 # Casks
 --cask visual-studio-code
 --cask github
